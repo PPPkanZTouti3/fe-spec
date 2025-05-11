@@ -1,0 +1,23 @@
+{
+  "name": "fe-commitlint-config-by-pure",
+  "version": "0.0.1",
+  "main": "index.js",
+  "description": "Git规范",
+  "keywords": [
+    "commit",
+    "lint"
+  ],
+  "author": "Pure",
+  "homepage": "https://github.com/PPPkanZTouti3/fe-spec#readme",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PPPkanZTouti3/fe-spec.git"
+  },
+  "bugs": {
+    "url": "https://github.com/PPPkanZTouti3/fe-spec/issues"
+  },
+  "dependencies": {
+    "conventional-changelog-conventionalcommits": "^4.5.0"
+  }
+}
